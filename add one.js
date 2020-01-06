@@ -52,3 +52,4 @@ if (A[A.length - 1] == 9) {
 }
 
 console.log(A)
+return A
