@@ -1,7 +1,6 @@
 @echo off
 rm a.exe
-g++ -std=c++0x a.cpp
+g++  "spiral order matrix II.cpp"
 @echo *******
 a
-
 @echo *******
