@@ -1,3 +1,9 @@
+/*
+ * @Author: Akash Raj 
+ * @Date: 2020-01-07 12:36:50 
+ * @Last Modified by:   Akash Raj 
+ * @Last Modified time: 2020-01-07 12:36:50 
+ */
 // ******************** Ques..***************//
 // Given a matrix, A of size M x N of 0s and 1s. If an element is 0, set its entire row and column to 0.
 // https://www.interviewbit.com/problems/set-matrix-zeros/

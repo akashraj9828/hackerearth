@@ -1,3 +1,9 @@
+/*
+ * @Author: Akash Raj 
+ * @Date: 2020-01-07 12:36:40 
+ * @Last Modified by:   Akash Raj 
+ * @Last Modified time: 2020-01-07 12:36:40 
+ */
 // ******************** Ques..***************//
 // Find the contiguous subarray within an array, A of length N which has the largest sum.
 // https://www.interviewbit.com/problems/max-sum-contiguous-subarray/

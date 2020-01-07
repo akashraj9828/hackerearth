@@ -1,3 +1,9 @@
+/*
+ * @Author: Akash Raj 
+ * @Date: 2020-01-07 12:36:47 
+ * @Last Modified by:   Akash Raj 
+ * @Last Modified time: 2020-01-07 12:36:47 
+ */
 // ******************************************************//
 // https://www.interviewbit.com/problems/maxspprod/
 // Naive solution runs out of time on long input

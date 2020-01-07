@@ -1,3 +1,9 @@
+/*
+ * @Author: Akash Raj 
+ * @Date: 2020-01-07 12:36:53 
+ * @Last Modified by:   Akash Raj 
+ * @Last Modified time: 2020-01-07 12:36:53 
+ */
 // vector<vector<int> > Solution::generateMatrix(int A) {
 #include <iostream>
 
