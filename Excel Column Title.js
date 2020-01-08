@@ -1,10 +1,10 @@
 /*
  * @Author: Akash Raj 
  * @Date: 2020-01-08 11:26:57 
- * @Last Modified by:   Akash Raj 
- * @Last Modified time: 2020-01-08 11:26:57 
+ * @Last Modified by: Akash Raj
+ * @Last Modified time: 2020-01-08 22:13:35
  */
-convertToTitle : function(A){
+convertToTitle=function(A){
 
     var result = '',
         curr;
